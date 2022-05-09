@@ -32,3 +32,4 @@ Displays a responsive table containing the data used in the visualizations.
 Finally, the website must be deployed to GitHub pages.
 
 There is a screenshot of my work:
+![png!](Screenshot_1.png)
